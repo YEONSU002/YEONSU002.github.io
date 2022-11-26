@@ -85,8 +85,8 @@ content:
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
+        title: 
+        sub_title: 
         caption: Date Range (eg. November 2016 - present)
         link: Link to company (optional)
         quote: >
